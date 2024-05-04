@@ -1,0 +1,1 @@
+Trabajo de POO para el uso de gitFlow, esta herramienta nos podrá servir para trabajar en nuestro proyecto PIS de forma grupal y ir subiendo dichas partes del trabajo y de esta manera ver los avances de cada miembro del grupo
